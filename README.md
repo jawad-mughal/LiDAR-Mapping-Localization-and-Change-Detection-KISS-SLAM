@@ -1,6 +1,7 @@
+![Map Registration](results/Map_Registration.png)
+
 LiDAR Mapping, Localization and Change Detection using KISS-SLAM
 Overview
-
 This project investigates LiDAR-based mapping, localization, map registration, and environmental change detection using KISS-SLAM and point cloud processing techniques.
 
 The work was conducted as part of the Project Seminar at Leibniz University Hannover and focuses on generating 3D maps from mobile LiDAR measurements, aligning newly acquired scans with reference maps, and identifying structural changes between different acquisition epochs.
